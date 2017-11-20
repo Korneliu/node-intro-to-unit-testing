@@ -26,7 +26,3 @@ describe('fizzBuzzer', function() {
 	})
 })
 
-/*badInputs.forEach(function(input) {
-      (function() {
-          adder(input[0], input[1])
-      }).should.throw(Error);*/
